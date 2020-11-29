@@ -13,6 +13,7 @@ If you only have two hours to code something fun, you might want to go into the 
 - Node *~13.9*
 - Typescript *~4.0*
 - MongoDB
+- Express *~4.17*
 
 ## How
 
