@@ -10,9 +10,9 @@ If you only have two hours to code something fun, you might want to go into the 
 
 ## Stack
 
-Node *~13.9*
-Typescript *~4.0*
-MongoDB
+- Node *~13.9*
+- Typescript *~4.0*
+- MongoDB
 
 ## How
 
