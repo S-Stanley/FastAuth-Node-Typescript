@@ -3,7 +3,7 @@ const mongoose = require('mongoose');
 const cors = require('cors');
 const cookieParser = require('cookie-parser');
 const port = 8080;
-const url = 'mongodb+srv://Admin:AfIeOyXnnMy6Gs7q@cluster0.65cbx.mongodb.net';
+const url = '';
 const app = express();
 
 import { adminRouter } from './routers/routes/admin/admin';
